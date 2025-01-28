@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugotest</title>
+    <link>/</link>
+    <description>Recent content on Hugotest</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>/blog-post/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/blog-post/</guid>
+      <description>&lt;h1 id=&#34;h1&#34;&gt;h1&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Blog Post</title>
+      <link>/second-post/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/second-post/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;heading 1&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
