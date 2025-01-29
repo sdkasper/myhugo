@@ -35,5 +35,18 @@
 </content>
     </item>
     
+    <item>
+      <title>Third Post Lipsum</title>
+      <link>/posts/third-post/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/third-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus.&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus.&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
