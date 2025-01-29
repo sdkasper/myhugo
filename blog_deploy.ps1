@@ -123,33 +123,33 @@ try {
     exit 1
 }
 
-# Step 8: Push the public folder to the host-deploy branch using subtree split and force push
-Write-Host "Deploying to GitHub host-deploy..."
+# Step 8: Push the public folder to the wiki-deploy branch using subtree split and force push
+Write-Host "Deploying to GitHub wiki-deploy..."
 
 # Check if the temporary branch exists and delete it
-$branchExists = git branch --list "host-deploy"
+$branchExists = git branch --list "wiki-deploy"
 if ($branchExists) {
-    git branch -D host-deploy
+    git branch -D wiki-deploy
 }
 
 # Perform subtree split
 try {
-    git subtree split --prefix public -b host-deploy
+    git subtree split --prefix public -b wiki-deploy
 } catch {
     Write-Error "Subtree split failed."
     exit 1
 }
 
-# Push to host-deploy branch with force
+# Push to wiki-deploy branch with force
 try {
-    git push origin host-deploy:host-deploy --force
+    git push origin wiki-deploy:wiki --force
 } catch {
-    Write-Error "Failed to push to host-deploy branch."
-    git branch -D host-deploy
+    Write-Error "Failed to push to wiki-deploy branch."
+    git branch -D wiki-deploy
     exit 1
 }
 
 # Delete the temporary branch
-git branch -D host-deploy
+git branch -D wiki-deploy
 
 Write-Host "All done! Site synced, processed, committed, built, and deployed."
