@@ -12,9 +12,9 @@ updated: 2025-01-30T09:34
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. 
 
 webp
-!![Image Description](/images/Third%20Post.webp)
+![Image Description](/images/Third%20Post.webp)
 
 png
 
-!![Image Description](/images/Third%20Post.png)
+![Image Description](/images/Third%20Post.png)
 
