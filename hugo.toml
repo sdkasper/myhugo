@@ -14,7 +14,7 @@ pagination.pagerSize = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -23,7 +23,7 @@ pagination.pagerSize = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -56,11 +56,11 @@ pagination.pagerSize = 5
 
 
   # you can set a banner on the top of the page with a call to action
-  # defaults: dismissible = false; URL is optional
+  # defaults: dismissible = true; URL is optional
   # [params.banner]
   # dismissible = false
-  # text = "Check it out on GitHub"
-  # url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
+  # text = "Find Obsidian templates and vaults"
+  # url = "https://kspr.me/store"
 
 
 
@@ -74,11 +74,11 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "re-Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
-    keywords = ""
-    copyright = ""
+    title = "LeanProductivity Wiki"
+    subtitle = "Don't be busy. Be productive."
+    owner = "Sascha D. Kasper"
+    keywords = "LeanProductivity, productivity, Sascha D. Kasper"
+    copyright = "Sascha D. Kasper"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -90,15 +90,19 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "LeanProductivity"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/posts/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase"
+        url = "/posts/showcase"
+      [[languages.en.menu.main]]
+        identifier = "store"
+        name = "Online Store"
+        url = "https://kspr.me/store"
