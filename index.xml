@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://sdkasper.github.io/myhugo/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sdkasper.github.io/myhugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post Lipsum</title>
-      <link>https://sdkasper.github.io/myhugo/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sdkasper.github.io/myhugo/posts/first-post/</guid>
+      <guid>/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;lipsum&#34;&gt;Lipsum&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;lipsum&#34;&gt;Lipsum&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;
 &lt;p&gt;Nunc in ullamcorper nibh, eu auctor nunc. Nullam ultricies purus nec ullamcorper tempor. Sed dignissim purus at orci bibendum, non pharetra mi mollis. Fusce sit amet tempus neque, ac lacinia ex. Ut tempus elit a felis feugiat posuere. Sed malesuada lorem orci, sit amet lacinia erat faucibus ac. Nulla eu felis at ex aliquet rhoncus a id metus.&lt;/p&gt;
 &lt;p&gt;In venenatis ligula sed orci ultrices dictum eget et eros. Cras faucibus sapien sapien, in aliquet odio dignissim vel. Integer scelerisque vehicula nisi, id semper tellus tempor at. Sed laoreet odio nec dolor ultrices auctor. Vivamus vitae ipsum et velit lobortis dapibus. Duis ut vestibulum tortor. Pellentesque a felis rutrum, pulvinar nulla in, rhoncus libero. Pellentesque vel enim enim. Praesent vehicula elit eget urna laoreet, id dapibus justo sagittis. Nam nec consequat ante, fermentum laoreet nibh. Quisque eu nibh at urna consectetur laoreet. Curabitur id magna euismod, euismod est quis, sagittis mauris. Nunc at nibh id urna scelerisque condimentum a quis augue. Praesent condimentum enim metus, sodales maximus enim tempus eu.&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;https://sdkasper.github.io/myhugo/images/First%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/First%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Second Post Lipsum</title>
-      <link>https://sdkasper.github.io/myhugo/posts/second-post/</link>
+      <link>/posts/second-post/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sdkasper.github.io/myhugo/posts/second-post/</guid>
+      <guid>/posts/second-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;</description>
       <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus. Etiam et enim a velit porttitor mattis. Mauris a fermentum turpis, quis convallis est. Suspendisse egestas ullamcorper viverra. Aliquam a nisl tincidunt dolor ornare dignissim. Vestibulum euismod consequat enim, sed facilisis dui ornare et. Praesent commodo sapien non tellus porta ultricies. Aliquam id justo quis felis venenatis gravida. In tincidunt pretium mollis.&lt;/p&gt;
 &lt;p&gt;Nunc in ullamcorper nibh, eu auctor nunc. Nullam ultricies purus nec ullamcorper tempor. Sed dignissim purus at orci bibendum, non pharetra mi mollis. Fusce sit amet tempus neque, ac lacinia ex. Ut tempus elit a felis feugiat posuere. Sed malesuada lorem orci, sit amet lacinia erat faucibus ac. Nulla eu felis at ex aliquet rhoncus a id metus.&lt;/p&gt;
@@ -37,14 +37,20 @@
     
     <item>
       <title>Third Post Lipsum</title>
-      <link>https://sdkasper.github.io/myhugo/posts/third-post/</link>
+      <link>/posts/third-post/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sdkasper.github.io/myhugo/posts/third-post/</guid>
+      <guid>/posts/third-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus.&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;https://sdkasper.github.io/myhugo/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;webp
+!&lt;img src=&#34;/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;png&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Third%20Post.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus est eu diam ornare varius. Proin gravida, felis a condimentum dapibus, lacus mauris dignissim dolor, sed rhoncus mi justo quis lectus.&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;https://sdkasper.github.io/myhugo/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;webp
+!&lt;img src=&#34;/images/Third%20Post.webp&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;png&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Third%20Post.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
