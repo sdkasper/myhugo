@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://sdkasper.github.io/myhugo/tags/</link>
+    <link>https://sdkasper.github.io/myhugo/tags.html</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sdkasper.github.io/myhugo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://sdkasper.github.io/myhugo/tags/blog/</link>
+      <link>https://sdkasper.github.io/myhugo/tags/blog.html</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sdkasper.github.io/myhugo/tags/blog/</guid>
+      <guid>https://sdkasper.github.io/myhugo/tags/blog.html</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hugotest</title>
-      <link>https://sdkasper.github.io/myhugo/tags/hugotest/</link>
+      <link>https://sdkasper.github.io/myhugo/tags/hugotest.html</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://sdkasper.github.io/myhugo/tags/hugotest/</guid>
+      <guid>https://sdkasper.github.io/myhugo/tags/hugotest.html</guid>
       <description></description>
       <content></content>
     </item>
