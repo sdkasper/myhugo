@@ -1,108 +1,41 @@
 baseurl = "https://sdkasper.github.io/myhugo/"
-languageCode = "en-us"
-# Add it only if you keep the theme in the `themes` directory.
-# Remove it if you use the theme as a remote Hugo Module.
-theme = "re-terminal"
-pagination.pagerSize = 5
+title = "LeanProductivity Blog"
+author = "Sascha D. Kasper"
+copyright = "Sascha D. Kasper"
+pagination.pagerSize = 10
+languageCode = "en"
+theme = "tailwind"
+
+[markup]
+  _merge = "deep"
 
 [params]
-  # dir name of your main content (default is `content/posts`).
+  # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  [params.header]
+    logo = "logo.png"
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  [params.footer]
+    since = 2022
+    poweredby = true
 
-  # show selector to switch language
-  showLanguageSelector = false
+[menu]
 
-  # set theme to full screen width
-  fullWidthTheme = false
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
 
-  # center theme with default width
-  centerTheme = true
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
-  # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
-
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
-
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-  # oneHeadingSize = true # default
-
-  # whether to show a page's estimated reading time
-  # readingTime = false # default
-
-  # whether to show a table of contents
-  # can be overridden in a page's front-matter
-  # Toc = false # default
-
-  # set title for the table of contents
-  # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
-
-
-  # you can set a banner on the top of the page with a call to action
-  # defaults: dismissible = true; URL is optional
-  # [params.banner]
-  # dismissible = false
-  # text = "Find Obsidian templates and vaults"
-  # url = "https://kspr.me/store"
-
-
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
-[languages]
-  [languages.en.params]
-    languageName = "English"
-    title = "LeanProductivity Wiki"
-    subtitle = "Don't be busy. Be productive."
-    owner = "Sascha D. Kasper"
-    keywords = "LeanProductivity, productivity, Sascha D. Kasper"
-    copyright = "Sascha D. Kasper"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    minuteReadingTime = "min read"
-    words = "words"
-
-    [languages.en.params.logo]
-      logoText = "LeanProductivity"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/posts/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/posts/showcase"
-      [[languages.en.menu.main]]
-        identifier = "store"
-        name = "Online Store"
-        url = "https://kspr.me/store"
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

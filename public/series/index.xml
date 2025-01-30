@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on LeanProductivity Blog</title>
+    <link>https://sdkasper.github.io/myhugo/series/</link>
+    <description>Recent content in Series on LeanProductivity Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>me@sascha-kasper.com (Sascha D. Kasper)</managingEditor>
+    <webMaster>me@sascha-kasper.com (Sascha D. Kasper)</webMaster>
+    <copyright>Sascha D. Kasper</copyright>
+    <atom:link href="https://sdkasper.github.io/myhugo/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sdkasper.github.io/myhugo/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sdkasper.github.io/myhugo/posts/about/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,6 +17,9 @@
     <loc>https://sdkasper.github.io/myhugo/tags/hugotest/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sdkasper.github.io/myhugo/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sdkasper.github.io/myhugo/posts/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,6 +32,40 @@
     <loc>https://sdkasper.github.io/myhugo/posts/third-post/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sdkasper.github.io/myhugo/manifest.json</loc>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.de/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.es/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.fr/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.hi/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.jp/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.nl/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.pl/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.ru/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/search/_index.zh-cn/</loc>
+    <priority>0.1</priority>
+  </url><url>
     <loc>https://sdkasper.github.io/myhugo/categories/</loc>
+  </url><url>
+    <loc>https://sdkasper.github.io/myhugo/series/</loc>
   </url>
 </urlset>
