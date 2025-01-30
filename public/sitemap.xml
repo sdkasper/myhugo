@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sdkasper.github.io/myhugo/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/posts/first-post/</loc>
+    <loc>/posts/first-post/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/tags/hugotest/</loc>
+    <loc>/tags/hugotest/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/posts/second-post/</loc>
+    <loc>/posts/second-post/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/posts/third-post/</loc>
+    <loc>/posts/third-post/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sdkasper.github.io/myhugo/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
